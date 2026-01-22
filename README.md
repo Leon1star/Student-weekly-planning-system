@@ -35,7 +35,8 @@ Task Data Structure
 * taskDay
 * startTime
 * endTime
-* taskStatus
+* taskStatus 
+
 System Components
 * Task Manager
 * Reminder Module
@@ -53,7 +54,9 @@ Manual testing was done to verify:
 * Reminder alerts
 * Task completion
 * Congratulatory messages
+
  Deployment
+ 
 The program was run locally on computer and opened in browser (for web version)
 
 Maintenance
