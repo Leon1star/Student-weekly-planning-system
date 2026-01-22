@@ -1,8 +1,13 @@
 # Student-weekly-planning-system
 NAME : ALEJO TEMIDIRE ONAOPEMIPO
-MARIC NO :24/14172
+
+MATRIC NO :24/14172
+
 DEPARMENT : COMPUTER SCIENCE
+
 PROJECT NAME: STUDENT WEEKLY PLANNING SYSTEM
+
+PROJECT URL:  https://leon1star.github.io/Student-weekly-planning-system/
 
 SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC) ANALYSIS
 
@@ -21,6 +26,7 @@ Non-Functional Requirements
 * Reliable reminders
 
    System Design
+  
 Task Data Structure
 * taskId
 * taskTitle
